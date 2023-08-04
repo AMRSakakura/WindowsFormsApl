@@ -8,4 +8,6 @@ http://www.apache.org/licenses/
 
 本プログラムを自由にお使いいただくことは可能ですが、
 本プログラムによって生じたいかなる問題も弊社エーエムアール株式会社が負うことはございません。
-詳細はhttp://www.apache.org/licenses/をご参照ください。
+詳細は
+[http://www.apache.org/licenses/](https://opensource.org/license/apache-2-0/)https://opensource.org/license/apache-2-0/
+をご参照ください。
